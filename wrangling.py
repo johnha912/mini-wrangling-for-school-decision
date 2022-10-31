@@ -18,7 +18,7 @@ crime_remove_comma.describe()
 final_crime = crime_remove_comma[crime_remove_comma['total_number_of_crime'] < 5871.1]
 
 ## PROCESS "UNIVERSITY" TABLE
-university = pd.read_csv('University_info.csv')
+university = pd.read_excel('University_info.csv', engine='pyxlsb')
 
 # Filter school having IT program
 new_u = university[university['PCIP11'] != 0]
