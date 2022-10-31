@@ -12,6 +12,7 @@ Robert's criterias following as:
 - **'Crime':** Calculate the total number of crime and take the school under 50th percentile of crime number.
 - **'University':** Filter school having IT programs, and urban locations.
 - **'Rank':** Take the < 25th percentile of ranking. Please notice that the higher number indicates lower ranking.
+- **Merging 3 tables**: Join them together, then sort to find the most appropriate school.
 
 ## Library & syntax
 ```
