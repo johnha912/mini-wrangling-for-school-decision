@@ -172,5 +172,6 @@ Rank|	City|	State|	University|	PCIP11|	Total Crime|	Startup Rank
 ---|---|---|---|---|---|---|
 1|	Boston|	MA|	MIT|	0.2834|	15,234|	#1
 2|	Pittsburgh|	PA|	Carnegie Mellon University|	0.3156	|13,234|	#3
+
 **Ranking logic:**
 Lower crime → better startup rank → stronger IT program signal.
